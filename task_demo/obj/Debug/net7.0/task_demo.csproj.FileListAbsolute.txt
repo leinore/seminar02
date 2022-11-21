@@ -1,0 +1,15 @@
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.csproj.AssemblyReference.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.AssemblyInfoInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.AssemblyInfo.cs
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.csproj.CoreCompileInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/bin/Debug/net7.0/task_demo
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/bin/Debug/net7.0/task_demo.deps.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/bin/Debug/net7.0/task_demo.runtimeconfig.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/bin/Debug/net7.0/task_demo.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/bin/Debug/net7.0/task_demo.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/refint/task_demo.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/task_demo.genruntimeconfig.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/seminars/seminar_2/task_demo/obj/Debug/net7.0/ref/task_demo.dll
